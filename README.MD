@@ -519,7 +519,8 @@ moons_data, moons_labels = make_moons(n_samples=300, noise=0.1)
 | **Балыков Павел**                | HPStream Clustering                       | 📧 [p.balykov@gmail.com](mailto:p.balykov@gmail.com) |
 | **Мысин Юрий**                   | KMeans с PCA                              | 📧 [yuriymysin@yandex.ru](mailto:yuriymysin@yandex.ru) |
 | **Сидоров Данила**               | Разработка тестов, оптимизация алгоритмов | 📧 [sidorov.d.a1@edu.mirea.ru](mailto:sidorov.d.a1@edu.mirea.ru) |
-| **Собиров Тельман**              | MeanShift, K-Medians, X-Means, MBSAS, SOM | 📧 [tel9master@mail.ru](mailto:tel9master@mail.ru) |
+| **Собиров Тельман**              | MeanShift, K-Medians | 📧 [tel9master@mail.ru](mailto:tel9master@mail.ru) |
+| **Курбанов Рамазан**             | X-Means, MBSAS, SOM                       | 📧 [peressmit@mail.ru](mailto:peressmit@mail.ru) |
 
 ---
 

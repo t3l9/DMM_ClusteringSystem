@@ -1,6 +1,6 @@
 """
 Тестовый скрипт для проверки SOM (PyClustering) с визуализацией
-Автор: Собиров Тельман Темурович [tel9master@mail.ru]
+Автор: Курбанов Рамазан [peressmit@mail.ru]
 """
 
 import os
